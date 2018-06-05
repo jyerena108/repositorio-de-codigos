@@ -1,5 +1,5 @@
 # Data Science in 30 Minutes: Reinforcement Learning and Multi-Armed Bandits
-To view the talk that goes along with this repo, click [here] (https://www.youtube.com/watch?v=aAdD2XRC044).
+To view the talk that goes along with this repo, click [here](https://www.youtube.com/watch?v=aAdD2XRC044).
 
 ## Installation Using Anaconda
 
